@@ -1,5 +1,5 @@
 // gitpracticee.cpp : 
-// part 1 prac
+// part 1 practicing
 
 
 #include <iostream>
