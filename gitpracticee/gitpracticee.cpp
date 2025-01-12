@@ -1,5 +1,6 @@
-// gitpracticee.cpp :
-// part 1
+// gitpracticee.cpp : 
+// part 1 prac
+
 
 #include <iostream>
 using namespace std;
