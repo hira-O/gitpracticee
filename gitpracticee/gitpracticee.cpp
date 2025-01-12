@@ -1,6 +1,6 @@
 // gitpracticee.cpp :
 // part 1
-
+//sum and addiion of two numbers
 #include <iostream>
 using namespace std;
 
